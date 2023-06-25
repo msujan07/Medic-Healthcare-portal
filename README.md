@@ -1,3 +1,4 @@
+
 ⭐ FTR-project
 Microsoft Future Ready Talent project
 
@@ -21,4 +22,9 @@ Microsoft Future Ready Talent project
 ## Contributing
 
 We welcome contributions from the community to enhance Medick and make it an even more useful platform for users.
+
+![Screenshot-2023-06-25-114403](https://github.com/msujan07/FTR-project/assets/122961926/a355ecd0-87c7-4e90-805c-5cdf7a07378f)
+![Screenshot-2023-06-25-114249](https://github.com/msujan07/FTR-project/assets/122961926/f1b480af-c4c1-48b1-a8c9-d9754bc33312)
+![Screenshot-2023-06-25-114209](https://github.com/msujan07/FTR-project/assets/122961926/62732f71-90e1-4111-ab98-7865cfa899a4)
+
 
